@@ -25,6 +25,11 @@ The program includes examples of the following widgets and features:
 - **Menu and Toolbar**: Adds a menu bar and toolbar with actions.
 - **Status Bar**: Displays a status message at the bottom of the window.
 
+#### New content
+Make issue if you want to see something additional inside
+
+PyQt4/3 in future
+
 ---
 
 ### How to Run?
