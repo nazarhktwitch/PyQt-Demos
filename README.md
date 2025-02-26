@@ -57,7 +57,7 @@ PyQt4/3 in future
 3. **Run the Program**:
    - For PyQt6:
      ```bash
-     python app.py
+     python app-pyqt6.py
      ```
    - For PyQt5:
      ```bash
