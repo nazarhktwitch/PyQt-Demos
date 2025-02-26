@@ -1,0 +1,5 @@
+PyQt6>=6.0.0 # For PyQt6 version
+QtWidgets>=0.7.0 # Unofficial custom widgets library for PyQt5
+PyQt6-QScintilla>=2.13.0 # Unofficial library for creating editors/IDEs with PyQt6
+PyQt5>=5.15.0 # For PyQt5 version
+qtpy>=2.0.0 # For compatibility with PyQt and PySide (From QtWidgets)
