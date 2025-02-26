@@ -66,23 +66,6 @@ PyQt4/3 in future
 
 ---
 
-### What You'll See?
-
-When you run the program, a window will open with various widgets. You can:
-- Click buttons to see popup messages.
-- Enter text in the input fields.
-- Select options using checkboxes and radio buttons.
-- Move the slider and observe the progress bar update.
-- Use the calendar, tabs, tables, and other elements.
-
----
-
-### Why PyQt?
-
-PyQt is a powerful library for building desktop applications with Python. It provides a wide range of widgets and tools for creating professional-looking GUIs. This demo project is a great starting point for learning PyQt and experimenting with its features.
-
----
-
 ### Need Help?
 
 If you have any questions or run into issues, feel free to ask! This project is designed to help you explore PyQt and its capabilities, so you can easily modify and adapt it to your needs.
