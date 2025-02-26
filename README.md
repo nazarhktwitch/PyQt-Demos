@@ -30,8 +30,12 @@ The program includes examples of the following widgets and features:
 1. **Install PyQt6**:
    Make sure you have PyQt6 installed. You can install it using pip:
    ```bash
-   pip install PyQt6
+   pip install PyQt6 QtWidgets PyQt6-QScintilla
    ```
+Or AFTER step 2:
+   ```bash
+   pip install -r requirements.txt
+```
 
 2. **Clone this repo**:
    Clone this repository and navigate to the cloned folder using:
